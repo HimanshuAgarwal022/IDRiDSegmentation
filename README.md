@@ -2,7 +2,7 @@
 Code for Segmentation of retinal lesions associated with diabetic retinopathy as microaneurysms, hemorrhages, hard exudates, and soft exudates.
 ## Requirements
 You need to have the following python packages installed (may be incomplete):
-- tensorflow
+- tensorflow 1.X
 - opencv
 - numpy
 - scipy
