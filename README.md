@@ -12,6 +12,6 @@ You need to have the following python packages installed (may be incomplete):
 - pandas
 - You need to have downloaded at least the IDRiD training dataset.
 
-**[IDRiD Challenge](https://idrid.grand-challenge.org/)**
-##
+##**[IDRiD Challenge](https://idrid.grand-challenge.org/)**
+
 
