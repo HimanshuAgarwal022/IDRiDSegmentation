@@ -18,8 +18,8 @@ You need to have the following python packages installed (may be incomplete):
 
 ## Samples
 
-|   Groud Truth(HE)   |       Predicted        |
-| :-----------------: | :--------------------: |
+|    Groud Truth(HE)    |        Predicted         |
+| :-------------------: | :----------------------: |
 | ![](assets/GT_01.png) | ![](assets/IDRiD_01.jpg) |
 | ![](assets/GT_02.png) | ![](assets/IDRiD_02.jpg) |
 | ![](assets/GT_03.png) | ![](assets/IDRiD_03.jpg) |
@@ -27,7 +27,16 @@ You need to have the following python packages installed (may be incomplete):
 | ![](assets/GT_17.png) | ![](assets/IDRiD_17.jpg) |
 | ![](assets/GT_45.png) | ![](assets/IDRiD_45.jpg) |
 ***
-**[IDRiD Challenge](https://idrid.grand-challenge.org/)**
+
+## Contributors
+
+- **[Himanshu Agarwal](https://github.com/HimanshuAgarwal022)**
+
+- **[Jayesh Narayan](https://github.com/jayesh1narayan)**
+
 ***
 
+## Citations
 
+**[IDRiD Challenge](https://idrid.grand-challenge.org/)**
+***
