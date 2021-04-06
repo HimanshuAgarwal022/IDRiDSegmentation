@@ -2,6 +2,9 @@
 
 Code for Segmentation of retinal lesions associated with diabetic retinopathy as microaneurysms, hemorrhages, hard exudates, and soft exudates.
 
+It's distributed under the GNU General Public License v3 (or any later
+  version) - see the accompanying LICENSE file for more details.
+
 ## Requirements
 
 You need to have the following python packages installed (may be incomplete):
