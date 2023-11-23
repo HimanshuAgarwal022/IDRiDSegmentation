@@ -21,7 +21,7 @@ You need to have the following python packages installed (may be incomplete):
 
 ## Samples
 
-|    Groud Truth(HE)    |        Predicted         |
+|    Ground Truth(HE)    |        Predicted         |
 | :-------------------: | :----------------------: |
 | ![](assets/GT_01.png) | ![](assets/IDRiD_01.jpg) |
 | ![](assets/GT_02.png) | ![](assets/IDRiD_02.jpg) |
